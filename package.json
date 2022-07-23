@@ -27,11 +27,8 @@
   "engines": {
     "node": ">=8"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@mfe-module-federation-vue"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mfe-module-federation-vue/dealful-package.git"
+    "url": "git+https://github.com/marcos-vinicius-dev/dealful-package.git"
   }
 }
